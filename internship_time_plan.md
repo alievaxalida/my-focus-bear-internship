@@ -1,4 +1,4 @@
-# Internship Time Plan - Xalida
+# Internship Time Plan - Khalida
 
 ## Weekly Schedule
 I plan to dedicate **20 hours** per week to this internship.
