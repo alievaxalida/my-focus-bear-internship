@@ -1,4 +1,4 @@
-Module 1: Agile Principles & Frameworks
+**Module 1: Agile Principles & Frameworks**
 
 🔍 Research & Learn
 
