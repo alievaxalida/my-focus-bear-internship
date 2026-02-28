@@ -1,4 +1,4 @@
-# 📝 User Manual for Xalida
+# 📝 User Manual for Khalida
 
 ### My Role
 I am a **Manual QA Intern**. I am working on testing and ensuring the quality of the company's products.
