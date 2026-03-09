@@ -1,19 +1,11 @@
-🏆 Milestone: Core Manual QA Skills
-🧠 Using Heuristics to Guide Testing
-🎯 Goal
-Understand how heuristics (rules of thumb) can help testers make decisions when requirements are unclear.
 
-❓ Why is this important?
-In real-world testing, not all scenarios are documented. Testers often rely on experience, intuition, and heuristics to decide what and how to test. Learning to apply heuristics helps testers navigate complex testing situations effectively.
-
-🔍 Research & Learn
-Watch James Bach and Michael Bolton’s talks on heuristics in software testing.
-Read blog posts by James Bach about how experienced testers use heuristics to find bugs.
-What are heuristics in software testing, and why are they useful?
-What are some common testing heuristics (e.g., "The Rule of Three," "Consistency Heuristic")?
-How do experienced testers use heuristics to prioritize what to test first?
-When should testers be cautious about over-relying on heuristics?
 📝 Reflection
-If you had only 15 minutes to test a new Focus Bear feature, how would heuristics help you decide what to test first?
-How can heuristics help you find edge cases and unexpected bugs?
-What risks come with using gut instinct vs. structured test cases?
+
+**If you had only 15 minutes to test a new Focus Bear feature, how would heuristics help you decide what to test first?**
+With very little time, I would use the Consistency and Risk-based heuristics. I would focus on the most important parts of the feature that a user sees first. I would check if the new feature works and looks the same as other parts of the app.
+
+**How can heuristics help you find edge cases and unexpected bugs?**
+Heuristics like "Rule of Three" or "Goldilocks" (testing small, large, and normal values) help me go beyond basic steps. They remind me to try unusual inputs or actions that might break the system, which helps in finding hidden bugs.
+
+**What risks come with using gut instinct vs. structured test cases?**
+Gut instinct is fast but can miss important details because it's not organized. Structured test cases are very detailed but can be too slow. The best way is to use heuristics to guide my "instinct" so I can be both fast and professional.
