@@ -1,37 +1,18 @@
-🏆 Milestone: Working in a Scrum Team
-🎭 Understanding Agile Ceremonies & QA’s Role
-🎯 Goal
-Learn about the key Scrum ceremonies and how QA contributes to each one.
+# Agile Ceremonies & Team Collaboration - Khalida Aliyeva
 
-❓ Why is this important?
-Scrum teams follow a set of structured meetings (ceremonies) to keep work aligned and efficient. QA testers need to actively participate to ensure testing is well-integrated throughout the sprint.
+## 🛠️ Practical Task Execution (Asynchronous Participation)
 
-🔍 Research & Learn
-**What are the four main Scrum ceremonies (Sprint Planning, Daily Standup, Sprint Review, Retrospective)?**
-Sprint Planning – The team plans what work will be done in the sprint.
-Daily Standup – A short daily meeting to share progress and blockers.
-Sprint Review – The team shows completed work to stakeholders.
-Retrospective – The team discusses what went well and what can improve.
-**What happens in each ceremony, and who participates?**
-Sprint Planning: QA reviews user stories, asks questions, identifies risks, and prepares test ideas.
-Daily Standup: QA shares testing progress, blockers, and upcoming tasks.
-Sprint Review: QA confirms tested features, shares quality feedback, and highlights known issues.
-Retrospective: QA discusses testing challenges and suggests improvements for better quality.
-**What is QA’s role in each meeting?**
-Sprint Planning: QA reviews requirements, asks questions, and plans testing tasks.
-Daily Standup: QA shares testing progress and reports blockers.
-Sprint Review: QA confirms tested features and shares quality feedback.
-Retrospective: QA suggests improvements to testing processes and teamwork.
-**How can testers use Sprint Planning to prepare for upcoming work?**
-QA can prepare test scenarios early, clarify acceptance criteria, and estimate testing effort.
-**Why is the Sprint Retrospective important for improving QA processes?**
-Retrospectives help improve test processes, reduce bottlenecks, and strengthen collaboration.
-📝 Reflection
-**What should QA do before, during, and after a Sprint Planning meeting?**
-Before Sprint Planning: Review backlog items, Prepare questions about requirements, Think about risks and edge cases.
-During Sprint Planning: Ask for clarification, Estimate testing effort, Identify dependencies.
-After Sprint Planning: Start writing test cases, Organize testing tasks.
-**If a Daily Standup is running long, what’s the best way to keep QA updates concise?**
-QA should give short updates: what was tested, what will be tested next, and any blockers.
-**How can QA drive continuous improvement during Sprint Retrospectives?**
-QA can suggest earlier testing, better documentation, automation ideas, and clearer communication.
+I participate in Agile ceremonies asynchronously by reviewing recordings and AI recaps due to my university schedule and time zone differences.
+
+### 1. Daily Stand-up Observation
+- **Date of Meeting:** March 9, 2026
+- **Tool:** Fireflies.ai Recap
+- **Key Observation:** I watched the recorded stand-up session featuring **Jeremy Nagel** (Product Owner) and the engineering team.
+- **Specific Detail:** During the 18-minute session, the team coordinated updates between the Windows and Mac branches. I observed Jeremy arriving and the team (Manish and Ivan) immediately transitioning into sharing their technical updates. This showed me how "alignment" works in real-time to keep the project on track.
+- **Evidence:** ![Stand-up](standup-meeting.png)
+
+### 2. Retrospective Review
+I have reviewed the team's past notes to understand their feedback loop. They focus on identifying technical blockers early to avoid delays in the testing phase.
+
+### 3. Collaboration Improvement
+I ensure all my bug reports and task updates are documented on GitHub with clear links to the Kanban board. This allows the team to review my work asynchronously while I am attending classes.
